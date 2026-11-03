@@ -30,13 +30,56 @@ I'm passionate about technology, artificial intelligence, software development a
 
 ---
 
-## 02 // TECHNICAL ARSENAL
+## 02 // THE TECHNICAL ARSENAL
 
-*Technologies, tools and weapons in my arsenal.*
+<p align="center">
+  <i>Every symbiote needs the right tools. Here's mine.</i>
+</p>
 
-<!-- TECH STACK WILL BE ADDED HERE -->
+### ⚡ Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+</p>
+
+### 🧠 AI & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,tensorflow&theme=dark" />
+</p>
+
+### 🗄️ Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,oracle&theme=dark" />
+</p>
+
+### 🛠️ Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+### 📊 Analytics & Creative Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
 ---
+
+<p align="center">
+  <b>LEARNING NEVER STOPS.</b><br/>
+  <i>The arsenal evolves with every mission.</i>
+</p>
 
 ## 03 // PROJECTS & EXPERIMENTS
 
