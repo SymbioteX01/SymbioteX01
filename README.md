@@ -12,16 +12,21 @@
 
 ## 01 // THE HOST
 
-> Every great creation begins with an idea.
+# AYUSH 🖤
 
-Hey! I'm **Ayush**, a **Information Technology** student passionate about technology, programming, artificial intelligence and building meaningful digital experiences.
+### The developer behind SymbioteX01.
 
-I enjoy exploring new technologies, solving problems and transforming ideas into working projects.
+I'm Ayush, a B.Tech Information Technology student at MIT Academy of Engineering, Pune.
 
-- 🎓 Currently pursuing: Btech at MIT Academy of Engineering.
-- 🧠 Exploring: AI, Machine Learning and Software Development
-- ⚡ Interested in: Building, experimenting and learning
-- 🎯 Mission: Create technology that makes a difference.
+I'm passionate about technology, artificial intelligence, software development and turning creative ideas into practical solutions.
+
+- 🎓 B.Tech Information Technology
+- 🧠 Exploring Artificial Intelligence and Machine Learning
+- 💻 Building projects and experimenting with new technologies
+- ⚡ Interested in problem-solving and innovation
+- 🚀 Always learning. Always evolving.
+
+**Building beyond limits. One project at a time.**
 
 ---
 
